@@ -1,9 +1,8 @@
 # ListenUp- Exposing Android's Microphone Vulnerabilities
 
-Is it possible to manipulate a user’s microphone data like many people think is happening on Instagram and Facebook?
+Are they listening? A question that has been continually asked, but never really demonstrated. 
 
-Yes, this project shows just one implementation in the form of a live proof of concept application to understand how something like this
-actually works with built in functionalities, and can even work without wifi connectivity.
+This project shows exactly how it is possible for a mobile application to decipher and listen to you even when your phone is locked...
 
 ### Specifications
 
