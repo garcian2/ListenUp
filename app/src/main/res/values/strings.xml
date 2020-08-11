@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdListener</string>
+    <string name="listener">Listener</string>
+    <string name="advertiser">Advertiser</string>
+    <string name="listen" />
+    <string name="stop" />
+    <string name="advertisement">Advertisement</string>
+    <string name="new_ad">New Ad</string>
+    <string name="facebook_app_id">197550621471390</string>
+    <string name="fb_login_protocol_scheme">fb197550621471390</string>
+</resources>
