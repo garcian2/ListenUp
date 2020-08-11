@@ -1,2 +1,18 @@
-# AdListener
- Android microphone vulnerability
+# ListenUp- Exposing Android's Microphone Vulnerabilities
+
+
+ /$$       /$$             /$$                         /$$   /$$          
+| $$      |__/            | $$                        | $$  | $$          
+| $$       /$$  /$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$$ | $$  | $$  /$$$$$$ 
+| $$      | $$ /$$_____/|_  $$_/   /$$__  $$| $$__  $$| $$  | $$ /$$__  $$
+| $$      | $$|  $$$$$$   | $$    | $$$$$$$$| $$  \ $$| $$  | $$| $$  \ $$
+| $$      | $$ \____  $$  | $$ /$$| $$_____/| $$  | $$| $$  | $$| $$  | $$
+| $$$$$$$$| $$ /$$$$$$$/  |  $$$$/|  $$$$$$$| $$  | $$|  $$$$$$/| $$$$$$$/
+|________/|__/|_______/    \___/   \_______/|__/  |__/ \______/ | $$____/ 
+                                                                | $$      
+                                                                | $$      
+                                                                |__/      
+                                                                
+This project serves to demonstrate vulnerabilites on Android API 29 and subsequent builds until patched.
+
+#Demo
